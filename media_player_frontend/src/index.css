@@ -1,0 +1,12 @@
+*{
+  font-family: "Aldrich", sans-serif;
+  /* font-size: 18px; */
+  margin: 0px;
+  padding: 0px;
+}
+
+@media(max-width:600px){
+  #wh{
+    display: none;
+  }
+}
